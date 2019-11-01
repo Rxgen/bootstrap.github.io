@@ -1,0 +1,42 @@
+
+.navbar-brand {
+     font-size:2em;
+     font-weight:bold;
+     font-family:'Ubuntu', sans-serif;
+     }
+.navbar #mymenu .custom-nav .nav-item a {
+     color:white;
+}  
+.navbar #mymenu .custom-nav .nav-item a:hover {
+     color:purple;
+}
+
+.back-image {
+     background-size:cover;
+     min-height:90vh;
+     background-position:center center;
+     background-repeat: no-repeat;
+     border-radius:0px;
+     margin-top:50px;
+}
+.font-italic {
+     font-size:20px;
+     color:white;
+     
+}
+.nameheading {
+     margin-top:50px;
+}
+@media only screen and (max-width:650px) {
+     .myclass {
+          text-align:center;
+          margin-top:350px;
+      }
+} 
+
+.fi-color {
+     color:green;
+}
+.fi-color:hover {
+     color:greenyellow;
+}
